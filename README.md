@@ -44,6 +44,7 @@ Date/time fields
 
 Business-related metrics
 
+
 3. Tools & Technologies
 Tool	Purpose
 Python (Pandas, NumPy)	Data loading, cleaning, and EDA
@@ -52,14 +53,15 @@ Power BI	Interactive dashboard creation
 Gamma	Presentation (PPT) creation
 Jupyter Notebook	Analysis environment
 
+
 4. Project Steps
-Step 1: Data Loading
+   Step 1: Data Loading
 
 Imported dataset using Pandas
 
 Checked structure, data types, and summary statistics
 
-Step 2: Exploratory Data Analysis (EDA)
+   Step 2: Exploratory Data Analysis (EDA)
 
 Identified distributions and trends
 
@@ -69,7 +71,7 @@ Analyzed relationships between variables
 
 Created visualizations for better understanding
 
-Step 3: Data Cleaning
+    Step 3: Data Cleaning
 
 Handled missing values
 
@@ -81,7 +83,7 @@ Converted data types where necessary
 
 Created new derived features
 
-Step 4: SQL Analysis (MySQL)
+    Step 4: SQL Analysis (MySQL)
 
 Imported cleaned data into MySQL
 
@@ -97,7 +99,7 @@ Joins (if multiple tables used)
 
 Business KPI calculations
 
-Step 5: Power BI Dashboard
+   Step 5: Power BI Dashboard
 
 Connected Power BI to MySQL / cleaned dataset
 
@@ -113,7 +115,7 @@ Filters & slicers
 
 Designed a clean and user-friendly layout
 
-Step 6: Report & Presentation
+   Step 6: Report & Presentation
 
 Created a structured analytical report
 
@@ -122,6 +124,7 @@ Summarized key insights
 Built a professional presentation using Gamma
 
 Focused on business impact and recommendations
+
 
 5. Dashboard
 
@@ -142,6 +145,7 @@ Monitor performance
 Identify trends
 
 Make data-driven decisions
+
 
 6. Results & Key Insights
 
