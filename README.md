@@ -162,6 +162,3 @@ SQL querying skills
 Data visualization expertise
 
 Ability to communicate insights effectively
-
-
-Email: (Add email)
