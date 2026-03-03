@@ -163,6 +163,5 @@ Data visualization expertise
 
 Ability to communicate insights effectively
 
-LinkedIn: (Add link)
 
 Email: (Add email)
